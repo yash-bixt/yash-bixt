@@ -93,7 +93,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-bixt&layout=compact&langs_count=8&theme=dracula"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-bixt&theme=dracula"/>
+  <img src="https://streak-stats.demolab.com/?user=yash-bixt&theme=dracula"/>
 </div>
 
 ---
