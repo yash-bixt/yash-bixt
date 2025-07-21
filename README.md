@@ -73,15 +73,18 @@
 
 ---
 
-### 🚀 Featured Projects (coming soon...)
+### 🚀 Featured Projects
 
-| Project Name                         | Description                                            | Tech Stack                              
-|--------------------------------------|--------------------------------------------------------|--------------------------------
-| CMOS Full Adder @ Transistor Level   | Custom CMOS full adder simulated in LTSpice            | PMOS/NMOS, LTSpice                        
-| ESP32 Data Logger WebApp             | Real-time sensor data dashboard with live plots        | ESP32, Chart.js, React, Firebase           
-| Deadline-Aware Real-Time Scheduler   | Linux-based scheduler project with ML optimizations    | C++, Python, ML Toolkit                   
+| Project Name                         | Description                                                                 | Tech Stack                                  |
+|--------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------|
+| **ALU using Verilog (Vivado)**       | A fully functional Arithmetic Logic Unit with custom opcodes designed in Verilog and synthesized in Vivado | Verilog, Vivado, ModelSim                   |
+| **AutoMCU**                          | CLI-based auto-programmer for microcontrollers using Gemini API for generating code from prompts | Python, Gemini API, Arduino, Serial Comm    |
+| **CMOS Full Adder @ Transistor Level** | Custom-designed CMOS full adder using PMOS & NMOS transistors, simulated in LTSpice | PMOS/NMOS, LTSpice                          |
+| **ESP32 Data Logger WebApp**         | Real-time IoT dashboard displaying sensor data as charts with export options | ESP32, Chart.js, React, Firebase            |
+| **Deadline-Aware Real-Time Scheduler** | Real-time Linux scheduler project enhanced with ML-based prediction logic   | C++, Python, ML Toolkit                     |
 
 ---
+
 
 ### 📊 My GitHub Stats:
 
