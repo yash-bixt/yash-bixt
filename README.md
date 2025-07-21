@@ -77,7 +77,7 @@
 
 | Project Name                         | Description                                                                 | Tech Stack                                  |
 |--------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------|
-| **4-Bit ALU **       | A fully functional Arithmetic Logic Unit with custom opcodes designed in Verilog and synthesized in Vivado | Verilog, Vivado, ModelSim                   |
+| **4-Bit ALU**       | A fully functional Arithmetic Logic Unit with custom opcodes designed in Verilog and synthesized in Vivado | Verilog, Vivado, ModelSim                   |
 | **AutoMCU**                          | CLI-based auto-programmer for microcontrollers using Gemini API for generating code from prompts | Python, Gemini API, Arduino, Serial Comm    |
 | **CMOS Full Adder** | Custom-designed CMOS full adder using PMOS & NMOS transistors, simulated in LTSpice | PMOS/NMOS, LTSpice                          |
 | **ESP32 Data Logger WebApp**         | Real-time IoT dashboard displaying sensor data as charts with export options | ESP32, Chart.js, React, Firebase            |
