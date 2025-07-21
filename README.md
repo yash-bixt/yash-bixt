@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me:
 
-- 🌱 Learning advanced **Computer Architecture & SoC design**  
+- 🌱 Learning  **Computer Architecture & SoC design**  
 - 👨‍💻 Passionate about **Embedded Systems**, **VLSI**, and **AI-Hardware Integration**  
 - 💡 I love turning ideas into working circuits, real-world apps, and intelligent devices  
 - ⚡ Fun fact: I design circuits down to the CMOS level and also build full IoT systems  
