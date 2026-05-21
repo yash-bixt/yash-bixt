@@ -1,4 +1,3 @@
-````md
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/mFDWuDppjQJjite6FS/giphy.gif" width="200"/>
   
@@ -8,7 +7,7 @@
   </h1>
 
 <h3 align="center">
-FPGA • RTL • ASIC Design • Embedded Systems • Computer Architecture
+FPGA • RTL Design • ASIC Flow • Embedded Systems • Computer Architecture
 </h3>
 
 <p align="center">
@@ -33,11 +32,11 @@ FPGA • RTL • ASIC Design • Embedded Systems • Computer Architecture
 - 🛠️ Experienced with **Verilog, Vivado, Synopsys Design Compiler, PrimeTime, ICC2, and Embedded Systems**
 - 🚀 I enjoy building systems ranging from **IoT devices and AI-powered hardware** to **digital processors and FPGA accelerators**
 - 💡 Interested in the intersection of **hardware acceleration, semiconductor design, and intelligent systems**
-- 🔬 Exploring complete digital design flow from:
+- 🔬 Exploring complete digital design flow:
 
-```text
-RTL → Simulation → Synthesis → STA → Physical Design
-````
+<p align="center">
+  <b>RTL → Simulation → Synthesis → STA → Physical Design</b>
+</p>
 
 ---
 
@@ -110,27 +109,27 @@ RTL → Simulation → Synthesis → STA → Physical Design
 
 ### 🚀 Featured Projects
 
-| Project Name                                        | Description                                                                                 | Tech Stack                          |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------- |
-| **RISC-V SoC Design (Ongoing)**                     | Designing a custom 32-bit RISC-V SoC with FPGA prototyping and ASIC flow exploration        | Verilog, Vivado, Synopsys DC, ICC2  |
-| **FPGA-Based Digital Oscilloscope**                 | Real-time VGA waveform visualization system using XADC on Artix-7 FPGA                      | Verilog, Vivado, VGA, XADC          |
+| Project Name | Description | Tech Stack |
+|--------------|-------------|-------------|
+| **RISC-V SoC Design (Ongoing)** | Designing a custom 32-bit RISC-V SoC with FPGA prototyping and ASIC flow exploration | Verilog, Vivado, Synopsys DC, ICC2 |
+| **FPGA-Based Digital Oscilloscope** | Real-time VGA waveform visualization system using XADC on Artix-7 FPGA | Verilog, Vivado, VGA, XADC |
 | **Comparative Study of 32-bit Adder Architectures** | ASIC synthesis and timing analysis of multiple adder architectures using Synopsys EDA tools | Verilog, Design Compiler, PrimeTime |
-| **Deadline-Aware Real-Time Scheduler**              | Real-time Linux scheduler enhanced with ML-based adaptive prediction logic                  | C++, Python, ML                     |
-| **Edge AI Air Quality Monitoring System**           | IoT + Edge ML based environmental monitoring and inference system                           | ESP32, Raspberry Pi, MQTT, Flask    |
-| **CMOS Full Adder Design**                          | Custom transistor-level CMOS full adder designed and simulated in LTSpice                   | CMOS, LTSpice                       |
+| **Deadline-Aware Real-Time Scheduler** | Real-time Linux scheduler enhanced with ML-based adaptive prediction logic | C++, Python, ML |
+| **Edge AI Air Quality Monitoring System** | IoT + Edge ML based environmental monitoring and inference system | ESP32, Raspberry Pi, MQTT, Flask |
+| **CMOS Full Adder Design** | Custom transistor-level CMOS full adder designed and simulated in LTSpice | CMOS, LTSpice |
 
 ---
 
 ### 📚 Currently Exploring
 
-* FPGA Acceleration & Hardware Offloading
-* ASIC Physical Design Flow
-* RISC-V Processor Design
-* Static Timing Analysis (STA)
-* Parallel Prefix Adders
-* Hardware Acceleration using FPGAs
-* Computer Architecture & SoC Design
-* AI + Hardware Integration
+- FPGA Acceleration & Hardware Offloading
+- ASIC Physical Design Flow
+- RISC-V Processor Design
+- Static Timing Analysis (STA)
+- Parallel Prefix Adders
+- Hardware Acceleration using FPGAs
+- Computer Architecture & SoC Design
+- AI + Hardware Integration
 
 ---
 
@@ -155,4 +154,3 @@ RTL → Simulation → Synthesis → STA → Physical Design
 <div align="center">
   <img src="https://github.com/Platane/platane/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
-```
