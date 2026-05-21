@@ -1,10 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/mFDWuDppjQJjite6FS/giphy.gif" width="200"/>
+  <img src="./Circuit%20Board-alt.gif" width="220"/>
   
   <h1>
     Hi there, I'm Yash Sharma
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  
 
 <h3 align="center">
 FPGA • RTL Design • ASIC Flow • Embedded Systems • Computer Architecture
